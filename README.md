@@ -32,12 +32,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -51,15 +45,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
-  <img width="12" />
-</div>
 
 ###
 
